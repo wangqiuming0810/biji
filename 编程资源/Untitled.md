@@ -1,0 +1,10 @@
+1.javaguide：https://javaguide.cn/
+2.leetbook：https://leetcode-cn.com/
+3.被删的前端游乐场：https://godbasin.github.io/front-end-playground/
+4.python100天：https://github.com/jackfrued/Python-100-Days/
+5.github漫游指南：http://github.phodal.com/
+6.sql自学网：http://www.xuesql.cn/
+7.docker从入门到实践：https://vuepress.mirror.docker-practice.com/
+8.动手学深度学习：https://zh.gluon.ai/
+9.地鼠文档(go语言）：https://www.topgoer.cn/
+10.鱼皮开发的编程导航：https://www.code-nav.cn/
